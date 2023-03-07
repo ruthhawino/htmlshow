@@ -1,0 +1,148 @@
+.pic1{
+    margin-bottom: 10%;
+    padding: 0% 3%;
+    height: 10%;
+    width: 100%;
+}
+.adress{
+    text-decoration: none;
+    color:red;
+}
+.press{
+    background-color: pink;
+}
+b1{
+border: solid;
+color: blue;
+background-color: blue;
+}
+.b2{
+    border: solid;
+color: blue;
+background-color: blue;
+}
+.b3{
+    border: solid;
+    color: blue;
+    background-color: blue;
+    
+}
+.line{
+    border: solid;
+    color: black;
+}
+.b4{
+    border: solid;
+    color:blue;
+    background-color: blue;
+}
+.b5{
+    background-color: blue;
+    border: solid;
+    color: blue;
+}
+.b6{
+    border: solid;
+    color:blue;
+    background-color: blue;
+}
+.nav{
+    display: inline-block;
+}
+.nav ul li{
+   list-style: none; 
+   color:red;
+   font-size: larger;
+   display: inline-block;
+   
+}
+.final{
+    color: blue;
+}
+.button{
+    display: inline-block;
+    
+}
+.button ul li{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    
+}
+.kid{
+    margin-bottom: 10%;
+    padding: 0% 3%;
+    height: 30%;
+    width: 60%;
+}
+.coment{
+    text-decoration: none;
+    color: blue;
+    text-align: center;
+}
+.line{
+    border: solid;
+    color:blue;
+}
+.boy{
+    margin-bottom: 10%;
+    padding: 0% 3%;
+    height: 30%;
+    width: 50%
+}
+.man{
+    margin-bottom: 10%;
+    padding: 0% 3%;
+    height: 30%;
+    width: 50%
+}
+.lady{
+    margin-bottom: 10%;
+    padding: 0% 3%;
+    height: 30%;
+    width: 40%
+}
+.girl{
+    margin-bottom: 10%;
+    padding: 0% 3%;
+    height: 30%;
+    width: 50%
+}
+.family{
+    display: flex;
+}
+.varies{
+    display: flex;
+}
+.d1{
+    margin-bottom: 10%;
+    margin: 0% 2%;
+    height: 30%;
+    width: 40%;
+}
+.d2{
+    margin-bottom: 10%;
+    margin: 0% 2%;
+    height: 30%;
+    width: 40%;
+}
+
+.d3{
+    margin-bottom: 10%;
+    margin: 0% 2%;
+    height: 30%;
+    width: 40%;
+}
+
+.d4{
+    margin-bottom: 10%;
+    margin: 0% 2%;
+    height: 30%;
+    width: 60%;
+}
+.final{
+    
+    text-decoration: none;
+    color: green;
+}
